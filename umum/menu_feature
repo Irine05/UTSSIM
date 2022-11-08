@@ -72,9 +72,9 @@
 
     <!-- bagian content -->
     <div class="container mt-2">
-      <h1>Promo AMOR ID</h1>
+      <h1>Promo BROWNIEZ MANIEZ</h1>
       <p>
-        Buruan checkout, promo akan berakhir pada tanggal 12 Desember 2022
+        Buruan checkout, promo akan berakhir pada tanggal 21 Desember 2022
       </p>
     </div>
 
@@ -82,23 +82,7 @@
     <div class="container">
       <div class="row">
         <!-- bagian list produk -->
-        <div class="col-md-3">
-          <div class="card" style="width: 18rem">
-            <img
-              src="C2B7D7D5-310C-40DE-AA4C-58C726747E5B.webp"
-              class="card-img-top"
-              alt="..."
-            />
-            <div class="card-body">
-              <h5 class="card-title">Manchester United Third Shirt 2022-23<br>
-<s>Rp 812.000</s><font color="#FF0000">Rp 749.000</font><br></h5>
-              <p class="card-text">
-                Original jersey from Adidas Indonesia.
-              </p>
-              <a href="mu3.html" class="btn btn-primary">BUY</a>
-            </div>
-          </div>
-        </div>
+        
         <div class="col-md-3">
           <div class="card" style="width: 18rem">
             <img
